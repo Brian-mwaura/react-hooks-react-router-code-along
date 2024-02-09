@@ -82,7 +82,7 @@ To start implementing routes, we first need to import `BrowserRouter` and
 `Route` from `react-router-dom`:
 
 ```jsx
-// .src/index.js
+// .src/index.js 
 
 import React from "react";
 import ReactDOM from "react-dom";
